@@ -30,12 +30,8 @@ python app.py
 https://my-project-nine-blue.vercel.app/
 
 📊 How It Works
-	1.	User inputs configurations such as:
-	•	Preferred software packages
-	•	Environment variables
-	•	System update preferences
-	•	Custom shell commands
-	2.	Config2Script processes inputs and generates a complete bash (.sh) script.
+	1.	User inputs configurations such as,Preferred software packages,Environment variables,System update preferences,Custom shell commands
+	2. Config2Script processes inputs and generates a complete bash (.sh) script.
 	3.	User downloads and executes the generated script on a Linux machine.
 	4.	The tool logs all installation and configuration steps for transparency.
 
