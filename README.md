@@ -101,15 +101,15 @@ https://my-project-nine-blue.vercel.app/
 
 ---
 
-## 📸 Screenshots
+## 📸 Images _
 
 Add screenshots here.
 
 Example:
 
 ```md
-![Home Page](screenshots/home.png)  
-<img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/f985a6e9-4f7f-4028-a091-bbda8e774d35" />
+![Home Page](screenshots/home.png)      
+
 
 ![Generated Script](screenshots/script.png)
 ```
