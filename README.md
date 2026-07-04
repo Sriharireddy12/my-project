@@ -101,7 +101,7 @@ https://my-project-nine-blue.vercel.app/
 
 ---
 
-## 📸 Images _
+## 📸 Screenshots 
 
 Add screenshots here.
 
@@ -110,8 +110,7 @@ Example:
 ```md
 ![Home Page](screenshots/home.png)      
 
-
-![Generated Script](screenshots/script.png)
+![Generated Script](screenshots/script.png) 
 ```
 
 ---
